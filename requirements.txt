@@ -5,3 +5,4 @@ djcacheutils>=3.0.0
 django-admin-tools>=0.5.1
 django-nvd3>=0.5.0
 django-bower
+six>=1.15.0
